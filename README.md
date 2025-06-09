@@ -1,4 +1,5 @@
-#Titanic EDA : Exploratory Data Analysis 
+##
+Titanic EDA : Exploratory Data Analysis 
 
 Importing Libraries
 pandas, numpy for data handling
