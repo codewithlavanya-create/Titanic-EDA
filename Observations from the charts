@@ -1,0 +1,34 @@
+ Count Plot – Survival by Sex
+Observation: The survival rate for females is significantly higher than for males.
+
+Conclusion: Gender was a major factor in survival, likely due to the "women and children first" policy.
+
+2. Count Plot – Survival by Passenger Class (Pclass)
+Observation: First-class passengers had the highest survival rate, while third-class passengers had the lowest.
+
+Conclusion: Class and accessibility to lifeboats played a key role.
+
+3. Histogram – Age Distribution
+Observation: A large number of passengers were young adults, with fewer children and elderly.
+
+Conclusion: Children had a relatively higher chance of survival compared to adults.
+
+4. Box Plot – Age by Pclass
+Observation: First-class passengers were generally older than those in second or third class.
+
+Conclusion: Wealthier passengers tended to be older, which may reflect family or travel purposes.
+
+5. FacetGrid – Survival by Age and Sex
+Observation: Young females had the highest survival rates; older males, especially in third class, had the lowest.
+
+Conclusion: Age, gender, and class all interacted in determining survival.
+
+6. Bar Plot – Embarked vs Survival
+Observation: Passengers who embarked from Cherbourg had higher survival rates.
+
+Conclusion: Many high-class passengers boarded from Cherbourg.
+
+7. Heatmap – Correlation Matrix
+Observation: Survival had moderate positive correlation with being female and higher class.
+
+Conclusion: Certain features are more predictive of survival and useful for modeling.
